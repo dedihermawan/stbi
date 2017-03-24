@@ -1,2 +1,1 @@
-# stbi
-tugas information retrieval
+#legal retrieval
